@@ -29,7 +29,7 @@ export const Navbar = () => {
           aria-controls="navbar-default"
           aria-expanded={isMenuOpen}
         >
-          <span className="sr-only">Open main menu</span>
+          <span className="sr-only">Abrir menú</span>
           <svg
             className="w-5 h-5"
             aria-hidden="true"
