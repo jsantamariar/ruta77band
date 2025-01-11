@@ -9,7 +9,7 @@ export default function Home() {
       </div>
       <main className="relative h-full w-full">
         <Image
-          src="/complete-band.jpg"
+          src="/complete-band.webp"
           className="object-cover opacity-80"
           alt="Ruta 77 background"
           layout="fill"
